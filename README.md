@@ -11,6 +11,7 @@ PEACE DA LOVE – A network of users united by the idea of forming a single Fran
 A unified philosophy of projects based on the natural characteristics of human individuals. Structuring Thoughts and their flows. Non-profit project! Payment for subscriptions and bonuses only in TON. All funds earned will be distributed in the base channel/community to all subscribers. A unique system for demonstrating an Alternative Economy and organizing interaction among Like-Minded People.
 
 Technical task https://telegra.ph/Peace-Da-Love--Twitris-09-29
+eng https://telegra.ph/Peace-Da-Love--Twitris-en-09-29
 
 Figma PeaceDaLove https://www.figma.com/file/QB4fdh5mi0l7sxj6NIzTGF/Market_mobile?type=design&node-id=0-1&mode=design&t=Fer9KgyT4rZscAP8-0
 
