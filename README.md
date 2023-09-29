@@ -16,3 +16,5 @@ eng https://telegra.ph/Peace-Da-Love--Twitris-en-09-29
 Figma PeaceDaLove https://www.figma.com/file/QB4fdh5mi0l7sxj6NIzTGF/Market_mobile?type=design&node-id=0-1&mode=design&t=Fer9KgyT4rZscAP8-0
 
 Figma Twitris https://www.figma.com/file/fiIAPnyGkHYY3SoL9vLdVr/Social?type=design&node-id=0-1&mode=design&t=ngcS3PwCMrudBnXN-0
+
+Connection TG @zolotovstas
