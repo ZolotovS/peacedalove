@@ -1,7 +1,7 @@
-# hacktoberfest  
-# hack-ton-berfest
-# peacedalove
 MarketPlace Only for TON users
+
+#Server
+https://github.com/ZolotovS/peacedalove_server
 
 Single platform, single registration/authorization
 TWITRIS – An anonymous social network with a reputation accumulation system.
@@ -17,4 +17,4 @@ Figma PeaceDaLove https://www.figma.com/file/QB4fdh5mi0l7sxj6NIzTGF/Market_mobil
 
 Figma Twitris https://www.figma.com/file/fiIAPnyGkHYY3SoL9vLdVr/Social?type=design&node-id=0-1&mode=design&t=ngcS3PwCMrudBnXN-0
 
-Connection https://t.me/zolotovstas
+Connection https://t.me/greykard
